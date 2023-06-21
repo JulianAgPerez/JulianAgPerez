@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200" />
     <h1 align="center"> Hola 👋 soy Julian Perez </h1>
-    <h3 align="center"> Un apasionado del coding de Argentina que siempre busca aprender </h3>
+    <h3 align="center"> Un apasionado del coding que siempre busca aprender </h3>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/julian-perez-12b368247/" >
