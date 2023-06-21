@@ -6,8 +6,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/julian-perez-12b368247/" >
-    <img src="https://img.shields.io/badge/Julian_Perez-Follow-blue?logo=LinkedIn&logoColor=blue&labelColor=white&color=blue&link=right%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjulian--perez--12b368247%2F
-"
+    <img src="https://img.shields.io/badge/Julian_Perez-Follow-blue?logo=LinkedIn&logoColor=blue&labelColor=white&color=blue"
 alt="LinkedIn Badge" />
 </a>
   
