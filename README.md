@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200" />
+    <h1 align="center"> Hola 👋, soy Julian Perez </h1>
+    <h3 align="center"> Un apasionado del coding de Argentina que siempre busca aprender </h3>
+</div>
 <!--
 **JulianAgPerez/JulianAgPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
