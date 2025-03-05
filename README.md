@@ -44,6 +44,7 @@
 ### 📫 **Cómo contactarme**
 📩 Email: [juli.agustin.perez@gmail.com](mailto:juli.agustin.perez@gmail.com)  
 💼 LinkedIn: [Julian Perez](https://www.linkedin.com/in/julian-perez-12b368247/)  
+<!--
 🚀 Portfolio: [Mi Página Web](https://mi-portfolio.com)  
-
+-->
 ---
