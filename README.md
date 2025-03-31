@@ -16,7 +16,7 @@
 ### 🚀 **Sobre mí**
 - 💻 Soy Fullstack Developer con mayor interés en el **frontend**.
 - 🎨 Me encanta trabajar con **React, Java, TailwindCSS y Framer Motion**.
-- 🌱 Actualmente aprendiendo **Node.js, Next.js**.
+- 🌱 Actualmente aprendiendo **Python, Next.js**.
 - 🎯 Siempre buscando desafíos y proyectos interesantes.
 
 ---
